@@ -43,7 +43,23 @@
   </p>
 </div>
 
-@[:page_toc](## Contents)
+## Contents
+- [Get Started](#get-started)
+- [Browser Compatibility](#browser-compatibility)
+- [[Plugins](https://webpack.js.org/plugins/)](#pluginshttps-webpackjsorgplugins)
+- [[Loaders](https://webpack.js.org/loaders/)](#loadershttps-webpackjsorgloaders)
+  - [Files](#files)
+  - [JSON](#json)
+  - [Transpiling](#transpiling)
+  - [Templating](#templating)
+  - [Styling](#styling)
+  - [Linting & Testing](#linting-testing)
+  - [Frameworks](#frameworks)
+- [Performance](#performance)
+- [Module Formats](#module-formats)
+- [[Code Splitting](https://webpack.js.org/guides/code-splitting/)](#code-splittinghttps-webpackjsorgguidescode-splitting)
+- [[Optimizations](https://webpack.js.org/guides/production-build/)](#optimizationshttps-webpackjsorgguidesproduction-build)
+- [License](#license)
 
 <h2 align="center">Install</h2>
 
